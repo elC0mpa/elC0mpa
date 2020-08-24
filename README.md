@@ -5,7 +5,7 @@
 - Teaching others 👨‍🏫
 
 ### Things I am Proud of:
-- Co-founder of [Automatismos_XL_Mundo](https://automatismosmundo.com/)
+- Co-founder of blog [Automatismos_XL_Mundo](https://automatismosmundo.com/)
 
 <!--
 **elC0mpa/elC0mpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
