@@ -7,6 +7,15 @@
 ### Things I am Proud of:
 - Co-founder of blog [Automatismos_XL_Mundo](https://automatismosmundo.com/) 📝
 
+## ✨ GitHub Stats
+
+<a href="https://github.com/elC0mpa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elC0mpa&hide=tex,html,css&count_private=true&theme=vue" />
+</a>
+<a href="https://github.com/elC0mpa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elC0mpa&hide_rank=true&show_icons=true&line_height=27&count_private=true&theme=vue" />
+</a>
+
 <!--
 **elC0mpa/elC0mpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
