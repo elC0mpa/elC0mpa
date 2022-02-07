@@ -1,8 +1,8 @@
-## Automatic engineer who loves embedded systems and programming
+## Vue.js advocate and a passionate frontend developer
 ### Things I am passionate about:
-- Making DIY projects with Arduino, ESP8266 and ESP32 boards 💡
-- Developing web apps frontend with VueJS 👨‍💻
+- Developing web apps frontend with VueJS and ReactJS 👨‍💻
 - Teaching others 👨‍🏫
+- Lifetime learner
 
 ### Things I am Proud of:
 - Co-founder of blog [Automatismos_XL_Mundo](https://automatismosmundo.com/) 📝
