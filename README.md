@@ -25,22 +25,27 @@
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" style="margin-right: 5px"/>
-&&
+<img src="https://img.icons8.com/ios/40/000000/ampersand.png"/>
+<img src="https://img.icons8.com/ios/40/000000/ampersand.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-left: 5px"/>
 <img src="https://img.icons8.com/color/48/000000/typescript.png" style="margin-right: 5px"/>
-&&
+<img src="https://img.icons8.com/ios/40/000000/ampersand.png"/>
+<img src="https://img.icons8.com/ios/40/000000/ampersand.png"/>
 <img src="https://img.icons8.com/color/48/000000/vue-js.png" style="margin-left: 5px"/>
 <img src="https://img.icons8.com/offices/40/000000/react.png" style="margin-right: 5px"/>
-&&
+<img src="https://img.icons8.com/ios/40/000000/ampersand.png"/>
+<img src="https://img.icons8.com/ios/40/000000/ampersand.png"/>
 <img src="https://img.icons8.com/color/48/000000/sass.png" style="margin-left: 5px"/>
 </div>
 
 ## Preferred stack
 
+<div>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/sass.png" />
 <img src="https://img.icons8.com/color/48/000000/typescript.png" />
 <img src="https://img.icons8.com/color/48/000000/vue-js.png" />
+</div>
 
 ## Currently learning
 
