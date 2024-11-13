@@ -1,14 +1,11 @@
-## Vue.js advocate and a passionate frontend developer
+## Software Enginner passionate about cloud development, Nodejs and Golang
 
 ### Things I am passionate about:
 
-- Developing web apps frontend with VueJS and ReactJS 👨‍💻
+- Developing systems from scartch
 - Teaching others 👨‍🏫
+- Open source advocate
 - Lifetime learner
-
-### Things I am Proud of:
-
-- Co-founder of blog [Automatismos_XL_Mundo](https://automatismosmundo.com/) 📝
 
 ## ✨ GitHub Stats
 
