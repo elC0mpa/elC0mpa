@@ -18,17 +18,16 @@
 
 ## My skills
 
-### Software
-
 <div style="display: flex;align-items: center">
+<div style="display: flex;align-items: center; flex-direction: column">
+<h3>Software</h3>
 <img src="https://img.icons8.com/color/96/golang.png" />
 <img src="https://img.icons8.com/color/96/nodejs.png" />
 </div>
-
-### Cloud
-
-<div style="display: flex;align-items: center">
+<div style="display: flex;align-items: center; flex-direction: column">
+<h3>Cloud</h3>
 <img src="https://img.icons8.com/color/96/amazon-web-services.png" />
 <img src="https://img.icons8.com/color/96/awslambda.png" />
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png" />
+</div>
 </div>
