@@ -12,22 +12,23 @@
 <a href="https://github.com/elC0mpa">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=elC0mpa&hide_rank=false&show_icons=true&line_height=27&count_private=true&theme=vue" />
 </a>
-<!-- <a href="https://github.com/elC0mpa"> -->
-<!--   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elC0mpa&hide=tex,html,css&count_private=true&theme=vue" /> -->
-<!-- </a> -->
 
 ## My skills
 
 <div style="display: flex;align-items: center">
 <div style="display: flex;align-items: center; flex-direction: column">
-<h3>Software</h3>
+<p>Software</p>
+<div style="display: flex;align-items: center">
 <img src="https://img.icons8.com/color/96/golang.png" />
 <img src="https://img.icons8.com/color/96/nodejs.png" />
 </div>
+</div>
 <div style="display: flex;align-items: center; flex-direction: column">
-<h3>Cloud</h3>
+<p>Cloud</p>
+<div style="display: flex;align-items: center">
 <img src="https://img.icons8.com/color/96/amazon-web-services.png" />
 <img src="https://img.icons8.com/color/96/awslambda.png" />
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png" />
+</div>
 </div>
 </div>
