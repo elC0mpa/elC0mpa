@@ -21,3 +21,11 @@
 <img src="https://img.icons8.com/color/96/amazon-web-services.png" />
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png" />
 </div>
+
+## 🎖Certifications
+
+<div style="display: flex;align-items: center">
+<img src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
+<img src="https://images.credly.com/size/160x160/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
+<img src="https://images.credly.com/size/160x160/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />
+</div>
