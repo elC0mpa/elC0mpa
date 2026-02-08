@@ -5,11 +5,16 @@
 I am a Software Engineer with over 5 years of experience, currently focused on building efficient, scalable cloud infrastructure. I specialize in **AWS** (particularly cost optimization and containerization) and modern backend development using **Golang**.
 
 ### 🔭 Current Focus
-- **Cloud Efficiency:** Deep diving into AWS services (ECS, Batch, Redshift) to optimize performance and reduce costs.
+- **Cloud Efficiency:** Deep diving into AWS services (ECS, Lambda, Redshift) to optimize performance and reduce costs.
 - **Infrastructure as Code:** Managing complex environments using Terraform.
 - **Tooling:** Building CLI tools to improve developer productivity.
 
-### 🚀 Featured Open Source
+### 🚀 Open Source & Community
+
+**🏆 GitLab Notable Contributor**
+Recognized in the [GitLab 18.5 release](https://about.gitlab.com/releases/2025/10/16/gitlab-18-5-released/#notable-contributor) for contributions to the **GitLab Terraform Provider** and **GitLab client**.
+* *Read the story behind this recognition on my blog: [My journey to becoming a Notable Contributor](https://compacompila.com/posts/gitlab-notable-contributor/)*
+
 **[aws-doctor](https://github.com/elC0mpa/aws-doctor)**
 A tool written in Go to help engineers identify cost-saving opportunities and health issues in their AWS environments.
 * *Tech stack: Go, AWS SDK*
@@ -24,12 +29,12 @@ A tool written in Go to help engineers identify cost-saving opportunities and he
 ## 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://img.icons8.com/color/48/golang.png" alt="Golang" title="Golang" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" title="AWS" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" title="Terraform" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" title="Node.js" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png" alt="Docker" title="Docker" style="margin-right: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="48" alt="Neovim" title="Neovim" />
+  <img src="https://img.icons8.com/color/96/golang.png" alt="Golang" title="Golang" style="margin-right: 10px;" />
+  <img src="https://img.icons8.com/color/96/amazon-web-services.png" alt="AWS" title="AWS" style="margin-right: 10px;" />
+  <img src="https://img.icons8.com/color/96/terraform.png" alt="Terraform" title="Terraform" style="margin-right: 10px;" />
+  <img src="https://img.icons8.com/color/96/nodejs.png" alt="Node.js" title="Node.js" style="margin-right: 10px;" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png" alt="Docker" title="Docker" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="96" alt="Neovim" title="Neovim" />
 </div>
 
 <br/>
