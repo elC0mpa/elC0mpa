@@ -1,13 +1,13 @@
 # Hi there, I'm El Compa! 👋
 
-## Cloud Engineer | AWS Optimization Specialist | Golang Developer
+## Cloud Architect | creator of aws-doctor | AWS DevOps Professional
 
-I am a Software Engineer with over 5 years of experience, currently focused on building efficient, scalable cloud infrastructure. I specialize in **AWS** (particularly cost optimization and containerization) and modern backend development using **Golang**.
+I am a Software Engineer focused on building the **"AWS Bible"**: a high-precision technical ecosystem through my blog, YouTube channel, and open-source tools. I specialize in **AWS infrastructure optimization**, cost management (FinOps), and high-performance backend systems with **Golang**.
 
-### 🔭 Current Focus
-- **Cloud Efficiency:** Deep diving into AWS services (ECS, Lambda, Redshift) to optimize performance and reduce costs.
-- **Infrastructure as Code:** Managing complex environments using Terraform.
-- **Tooling:** Building CLI tools to improve developer productivity.
+### 🔭 The Loop of Value
+- 📺 **YouTube:** I create deep-dive technical videos at [Compa Compila](https://youtube.com/@elC0mpa).
+- ✍️ **Blog:** I write technical reference articles at [compacompila.com](http://compacompila.com/).
+- 🛠️ **Tooling:** I build **[aws-doctor](https://github.com/elC0mpa/aws-doctor)**, a Go-based CLI to audit and optimize AWS environments.
 
 ### 🚀 Open Source & Community
 
@@ -20,7 +20,6 @@ A tool written in Go to help engineers identify cost-saving opportunities and he
 * *Tech stack: Go, AWS SDK*
 
 ### 👨‍💻 What I'm up to
-- ✍️ **Writing:** I document my learning and teach others at [compacompila.com](http://compacompila.com/).
 - ⚙️ **Configuring:** Constantly tweaking my **Neovim** setup for the perfect workflow.
 - 💬 **Ask me about:** AWS Cost Management, Go concurrency, and why I migrated from Node.js to Go.
 
@@ -52,5 +51,6 @@ A tool written in Go to help engineers identify cost-saving opportunities and he
 <div style="display: flex; align-items: center">
   <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" style="margin-right: 15px;" />
   <img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" style="margin-right: 15px;" />
-  <img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />
+  <img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" style="margin-right: 15px;" />
+  <img src="https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" />
 </div>
